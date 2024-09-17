@@ -53,14 +53,14 @@ $(document).ready(function () {
 
     /////////////////// Mark only Checked Icon ///////////////////
     $("input[name='user-icon']").change(function() {
-        $("input[name='user-icon']").siblings("img").removeClass("border-rose-400");
-        $("input[name='user-icon']:checked").siblings("img").addClass("border-rose-400");
+        $("input[name='user-icon']").siblings("img").removeClass("border-blue-400");
+        $("input[name='user-icon']:checked").siblings("img").addClass("border-blue-400");
         $("input[name='user-icon']:checked").siblings("img").addClass("border-4");
     });
 
     $("input[name='new-user-icon']").change(function() {
-        $("input[name='new-user-icon']").siblings("img").removeClass("border-rose-400");
-        $("input[name='new-user-icon']:checked").siblings("img").addClass("border-rose-400");
+        $("input[name='new-user-icon']").siblings("img").removeClass("border-blue-400");
+        $("input[name='new-user-icon']:checked").siblings("img").addClass("border-blue-400");
         $("input[name='new-user-icon']:checked").siblings("img").addClass("border-4");
     });
     

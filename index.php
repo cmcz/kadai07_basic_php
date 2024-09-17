@@ -33,36 +33,36 @@
             <div class="grid grid-cols-4 gap-4 mb-4">
                 <label class="cursor-pointer">
                     <input type="radio" name="new-user-icon" value="./img/1.png" class="hidden" checked>
-                    <img src="./img/1.png" alt="1" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/1.png" alt="1" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="new-user-icon" value="./img/2.png" class="hidden">
-                    <img src="./img/2.png" alt="2" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/2.png" alt="2" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="new-user-icon" value="./img/3.png" class="hidden">
-                    <img src="./img/3.png" alt="3" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/3.png" alt="3" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="new-user-icon" value="./img/4.png" class="hidden">
-                    <img src="./img/4.png" alt="4" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/4.png" alt="4" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
 
                 <label class="cursor-pointer">
                     <input type="radio" name="new-user-icon" value="./img/5.png" class="hidden">
-                    <img src="./img/5.png" alt="4" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/5.png" alt="4" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="new-user-icon" value="./img/6.png" class="hidden">
-                    <img src="./img/6.png" alt="6" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/6.png" alt="6" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="new-user-icon" value="./img/7.png" class="hidden">
-                    <img src="./img/7.png" alt="7" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/7.png" alt="7" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="new-user-icon" value="./img/8.png" class="hidden">
-                    <img src="./img/8.png" alt="8" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/8.png" alt="8" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
             </div>
 
@@ -118,7 +118,7 @@
             </div>
 
             <!-- Submit Button -->
-            <button id="submit-topic" class="bg-rose-400 text-white py-2 px-4 mt-4 w-full rounded-md flex justify-center items-center space-x-2 hover:bg-rose-500">                
+            <button id="submit-topic" class="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 w-full flex justify-center items-center">                
                 <svg fill="#ffffff" height="32px" width="32px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M508.645,18.449c-2.929-2.704-7.133-3.51-10.826-2.085L6.715,204.446c-3.541,1.356-6.066,4.515-6.607,8.264 c-0.541,3.75,0.985,7.496,3.995,9.796l152.127,116.747c-0.004,0.116-0.575,0.224-0.575,0.342v83.592 c0,3.851,2.663,7.393,6.061,9.213c1.541,0.827,3.51,1.236,5.199,1.236c2.026,0,4.181-0.593,5.931-1.756l56.12-37.367 l130.369,99.669c1.848,1.413,4.099,2.149,6.365,2.149c1.087,0,2.186-0.169,3.248-0.516c3.27-1.066,5.811-3.672,6.786-6.974 L511.571,29.082C512.698,25.271,511.563,21.148,508.645,18.449z M170.506,321.508c-0.385,0.36-0.7,0.763-1.019,1.163 L31.659,217.272L456.525,54.557L170.506,321.508z M176.552,403.661v-48.454l33.852,25.887L176.552,403.661z M359.996,468.354 l-121.63-93.012c-1.263-1.77-2.975-3.029-4.883-3.733l-47.29-36.163L480.392,60.86L359.996,468.354z"></path> </g> </g> </g></svg>    
             </button>
 
@@ -146,36 +146,36 @@
             <div class="grid grid-cols-4 gap-4 mb-4">
                 <label class="cursor-pointer">
                     <input type="radio" name="user-icon" value="./img/1.png" class="hidden" checked>
-                    <img src="./img/1.png" alt="1" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/1.png" alt="1" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="user-icon" value="./img/2.png" class="hidden">
-                    <img src="./img/2.png" alt="2" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/2.png" alt="2" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="user-icon" value="./img/3.png" class="hidden">
-                    <img src="./img/3.png" alt="3" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/3.png" alt="3" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="user-icon" value="./img/4.png" class="hidden">
-                    <img src="./img/4.png" alt="4" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/4.png" alt="4" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
 
                 <label class="cursor-pointer">
                     <input type="radio" name="user-icon" value="./img/5.png" class="hidden">
-                    <img src="./img/5.png" alt="4" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/5.png" alt="4" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="user-icon" value="./img/6.png" class="hidden">
-                    <img src="./img/6.png" alt="6" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/6.png" alt="6" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="user-icon" value="./img/7.png" class="hidden">
-                    <img src="./img/7.png" alt="7" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/7.png" alt="7" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
                 <label class="cursor-pointer">
                     <input type="radio" name="user-icon" value="./img/8.png" class="hidden">
-                    <img src="./img/8.png" alt="8" class="w-20 h-20 object-cover border-2 border-transparent hover:border-rose-300 rounded-full">
+                    <img src="./img/8.png" alt="8" class="w-20 h-20 object-cover border-2 border-transparent hover:border-blue-300 rounded-full">
                 </label>
             </div>
 
@@ -211,7 +211,7 @@
             <input type="hidden" id="hiddenPlaceValue" name="hiddenPlaceValue" value="">
 
             <!-- Button -->
-            <button id="send" class="bg-rose-400 text-white py-2 px-4 mt-4 w-full rounded-md flex justify-center items-center space-x-2 hover:bg-rose-500">
+            <button id="send" class="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 w-full flex justify-center items-center">
                 <svg fill="#ffffff" height="32px" width="32px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M508.645,18.449c-2.929-2.704-7.133-3.51-10.826-2.085L6.715,204.446c-3.541,1.356-6.066,4.515-6.607,8.264 c-0.541,3.75,0.985,7.496,3.995,9.796l152.127,116.747c-0.004,0.116-0.575,0.224-0.575,0.342v83.592 c0,3.851,2.663,7.393,6.061,9.213c1.541,0.827,3.51,1.236,5.199,1.236c2.026,0,4.181-0.593,5.931-1.756l56.12-37.367 l130.369,99.669c1.848,1.413,4.099,2.149,6.365,2.149c1.087,0,2.186-0.169,3.248-0.516c3.27-1.066,5.811-3.672,6.786-6.974 L511.571,29.082C512.698,25.271,511.563,21.148,508.645,18.449z M170.506,321.508c-0.385,0.36-0.7,0.763-1.019,1.163 L31.659,217.272L456.525,54.557L170.506,321.508z M176.552,403.661v-48.454l33.852,25.887L176.552,403.661z M359.996,468.354 l-121.63-93.012c-1.263-1.77-2.975-3.029-4.883-3.733l-47.29-36.163L480.392,60.86L359.996,468.354z"></path> </g> </g> </g></svg>
             </button>
         </form>
@@ -232,9 +232,9 @@
 
             <div class="flex flex-col space-y-4">
                 <!-- Add Place -->
-                <button id="show-modal-btn" class="bg-rose-400 text-white py-2 px-4 rounded-md hover:bg-rose-500 w-60">+ Place</button>
+                <button id="show-modal-btn" class="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">+ Place</button>
                 <!-- Add Review -->
-                <button id="show-modal-review-btn" class="bg-rose-400 text-white py-2 px-4 rounded-md hover:bg-rose-500 w-60">+ Review</button>
+                <button id="show-modal-review-btn" class="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">+ Review</button>
             </div>
 
             <!-- BG Credit -->
@@ -249,7 +249,7 @@
         <div class="w-2/3 flex flex-col h-full">
             
             <!-- Selected Topic -->
-            <div class="text-rose-400 p-4 flex justify-between items-center rounded-t-lg">
+            <div class="text-blue-500 p-4 flex justify-between items-center rounded-t-lg">
                 <h2 id="currTopic" class="text-lg font-semibold">Welcome to the Network for Expats in Japan!</h2>
             </div>
             
